@@ -1,0 +1,5 @@
+.article ul li:first-child{
+    font-size:20pt ;
+}
+.article ul li:nth-last-of-type(2){color: red;}
+.article ul li:last-child{text-decoration: line-through;}
