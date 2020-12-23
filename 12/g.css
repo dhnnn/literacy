@@ -1,0 +1,25 @@
+.wrapper {
+  display: grid;
+  grid-template-columns: 75px 75px 75px;
+  grid-template-rows: 75px 75px 75px;
+  text-align: center;
+}
+
+#A {
+  background-color: #F3C90B;
+}
+#B {
+  background-color: #FF8E52;
+}
+#C {
+  background-color: #FDA8EC;
+}
+#X {
+  background-color: #6CDDFF;
+}
+#Y {
+  background-color: #5CA8EE;
+}
+#Z {
+  background-color: #A0A7F8;
+}
